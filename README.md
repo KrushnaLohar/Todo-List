@@ -1,5 +1,4 @@
-### This is React.js project bootstrapped with npm create vite@latest
-<br/> 
+### This is React.js project bootstrapped with npm create vite@latest 
 
 # Getting Started:
 ### First, run development Server:
